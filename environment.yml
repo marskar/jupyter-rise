@@ -11,3 +11,4 @@ dependencies:
   - bokeh
   - rise
   - sqlalchemy
+  - pymysql
